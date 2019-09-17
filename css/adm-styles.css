@@ -1,0 +1,43 @@
+.conteudo{
+    background-color: #fff;
+    border-radius: 1%;
+    height: 650px;
+}
+.btnFimCadastro{
+    margin-left: 40%;
+    margin-top: 50px;
+}
+input[type='file'] {
+    display: none
+}
+
+
+label {
+
+    color: black;
+    margin-top: -50px !important;
+    text-align: center;
+    position: absolute;
+    margin-top: -13px !important;
+    margin-left: 5% !important;
+    font-size: 1rem !important;
+    color: #fff !important;
+    font-weight: bold;
+
+
+}
+
+.formatLabel {
+    transform: translateX(-50%);
+    margin-left: 50%;
+    margin-top: 18px;
+    height: 40px;
+    width: 300px;
+    background-color:#d3394c;
+    border-radius: 7px;
+    padding-top: 10px !important;
+}
+.iconLabel{
+    margin-left: 20px;
+    float:left;
+}

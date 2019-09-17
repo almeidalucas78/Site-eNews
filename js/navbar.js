@@ -1,0 +1,3 @@
+function aparece() {
+    $("#cadastro").show();
+}

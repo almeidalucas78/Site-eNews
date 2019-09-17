@@ -1,0 +1,103 @@
+.areaPerfil {
+    width: 800px;
+    height: 1500px;
+    background-color: #fff;
+    margin-top: 50px;
+    left: 50%;
+    position: absolute;
+    transform: translateX(-50%);
+    border-radius: 10px;
+}
+
+.fotoUsuario {
+    margin-top: 60px;
+    height: 150px;
+    width: 150px;
+    left: 50%;
+    position: absolute;
+    transform: translateX(-50%);
+    border-radius: 100px;
+}
+
+/*nome do usuario embaixo da foto de per    margin-top:300px;
+il*/
+
+.nomeUsuario {
+    margin-top: 1px;
+    position: absolute;
+    transform: translateX(-50%);
+    left: 50%;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.tituloPostarNoticia {
+    margin-top: 390px;
+    position: absolute;
+    transform: translateX(-50%);
+    left: 50%;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.areaTituloNoticia {
+    margin-top: 300px;
+    position: absolute;
+    transform: translateX(-50%);
+    left: 50%;
+}
+
+.TituloNoticia {
+    margin-top: 150px !important;
+    text-align: center;
+    font-size: 30px !important;
+    color: #0a0a0a !important;
+}
+
+
+.tini {
+    margin-top: 600px;
+    position: absolute;
+    transform: translateX(-50%);
+    left: 50%;
+    width: 600px;
+    height: 800px;
+}
+.categoriaInput{
+    width: 400px;
+    height: 300px !important;
+    position: absolute;
+    margin-top: 1000px;
+    transform: translateX(-50%);
+    left: 50%;
+}
+.btnPublicar{
+    background-color: #673ab7 !important;
+    width: 200px;
+    position: absolute;
+    margin-top: 1350px;
+    transform: translateX(-50%);
+    left: 50%;
+}
+
+.CategoriaNoticialabel{
+    border: 1px solid #673ab7;
+    border-radius: 5px;
+}
+.formatLabel{
+    position: absolute;
+    margin-top: 230px !important;
+    padding-top: 10px !important;   
+     padding-left: 20px !important;
+
+
+}
+.atualizar{
+    margin-top: 290px;
+    transform: translateX(-50%);
+    left: 50%;
+    position: absolute;
+    background-color:#d3394c !important;
+    font-weight: bold;
+
+}

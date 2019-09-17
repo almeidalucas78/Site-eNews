@@ -1,0 +1,31 @@
+
+/*Formatação da imagem da noticia*/
+.formatacaoNoticia{
+    border-radius: 5px;
+    background-color: white;
+    cursor: pointer  !important;
+    margin-top: 50px;
+    height: 82.5vmin;
+    width: 70vmin;
+}
+.formatacaoNoticia2{
+    border-radius: 5px;
+    margin-left: 5%;
+    margin-top: 50px;
+    height: 40vmin;
+    width: 65vmin;
+}
+.areaNoticia3{
+   margin-top: -30px; 
+}
+.formatacaoNoticia3{
+    border-radius:5px;
+    margin-left: 5%;
+    margin-top: 50px;
+    height: 40vmin;
+    width: 65vmin;
+}
+
+.conteudo{
+    background-color: #fff;
+}
